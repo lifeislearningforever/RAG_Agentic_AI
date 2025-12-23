@@ -4,13 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cb7c947d-0209-442b-8125-425d325f0d32" name="Changes" comment="Initial code commit for RAG and Agentic AI">
-      <change afterPath="$PROJECT_DIR$/Notes/LangChain_CheetSheet.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Notes/Summary_LangChain.md" afterDir="false" />
+    <list default="true" id="cb7c947d-0209-442b-8125-425d325f0d32" name="Changes" comment="First Module">
+      <change afterPath="$PROJECT_DIR$/Notes/Build RAG Applications: Get Started/Course Overview.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notes/Build RAG Applications: Get Started/RAG and Agentic AI Professional Certificate Overview.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notes/Build RAG Applications: Get Started/Rag course overview.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notes/Module 3/Cheat Sheet: Build GenAI Application with LangChain.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notes/Module 3/Choose the Right AI Model for Your Use Case.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notes/Module 3/Course Wrap-up.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notes/Module 3/Django cheat sheet for developers.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notes/Module 3/From Idea to AI: Building Applications with Generative AI.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notes/Module 3/Introduction to Flask.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notes/Module 3/flask_cheat_sheet.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LangChain Chains and Agents for Building Applications.md" beforeDir="false" afterPath="$PROJECT_DIR$/Notes/LangChain Chains and Agents for Building Applications.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LangChain LCEL Chaining Method.md" beforeDir="false" afterPath="$PROJECT_DIR$/Notes/LangChain LCEL Chaining Method.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LangChain_Concept.md" beforeDir="false" afterPath="$PROJECT_DIR$/Notes/LangChain_Concept.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,6 +66,13 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Notes/Build RAG Applications: Get Started" />
+      <recent name="$PROJECT_DIR$/Notes/Build RAG Applications: Get Started/ RAG and Agentic AI Professional Certificate Overview 1:42 " />
+      <recent name="$PROJECT_DIR$/Notes" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -76,7 +88,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1766405831447</updated>
-      <workItem from="1766405832489" duration="3569000" />
+      <workItem from="1766405832489" duration="8977000" />
     </task>
     <task id="LOCAL-00001" summary="Initial code commit for RAG and Agentic AI">
       <option name="closed" value="true" />
@@ -94,7 +106,15 @@
       <option name="project" value="LOCAL" />
       <updated>1766409834388</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="First Module">
+      <option name="closed" value="true" />
+      <created>1766412379271</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1766412379271</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -102,6 +122,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial code commit for RAG and Agentic AI" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial code commit for RAG and Agentic AI" />
+    <MESSAGE value="First Module" />
+    <option name="LAST_COMMIT_MESSAGE" value="First Module" />
   </component>
 </project>
